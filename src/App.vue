@@ -30,6 +30,8 @@ export default {
 body {
   background-image: url("https://pic.imgdb.cn/item/66cdd7b0d9c307b7e93d0806.webp");
   background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
 
 </style>
